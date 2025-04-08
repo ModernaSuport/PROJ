@@ -1,11 +1,17 @@
 {
   "admin": {
     "senha": "1234",
-    "maquinas": "b2e184f071d56e1ed83a97ea35081bb505ae7fc5045cf2fd855a675532198498"
+    "maquinas": [
+      "b2e184f071d56e1ed83a97ea35081bb505ae7fc5045cf2fd855a675532198498",
+      "outro_id_gerado_da_maquina_aqui"
+    ]
   },
   "joao": {
     "senha": "senha123",
-    "maquinas": "0xabcdef123456"
+    "maquinas": [
+      "0xabcdef123456"
+    ]
   }
 }
+
 
