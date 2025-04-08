@@ -1,7 +1,7 @@
 {
   "admin": {
     "senha": "1234",
-    "maquinas": ["0x3a98a2e7c6b8"]
+    "maquinas": ["0x641c679560c0"]
   },
   "joao": {
     "senha": "joaopass",
