@@ -1,11 +1,11 @@
 {
   "admin": {
     "senha": "1234",
-    "id": "0x641c679560c0"
+    "maquinas": "0x641c679560c0"
   },
   "joao": {
     "senha": "senha123",
-    "id": "0xabcdef123456"
+    "maquinas": "0xabcdef123456"
   }
 }
 
