@@ -1,10 +1,11 @@
 {
   "admin": {
     "senha": "1234",
-    "maquinas": ["0x641c679560c0"]
+    "id": "0x641c679560c0"
   },
   "joao": {
-    "senha": "joaopass",
-    "maquinas": ["0x8f4e2b7c7b9a"]
+    "senha": "senha123",
+    "id": "0xabcdef123456"
   }
 }
+
